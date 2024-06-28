@@ -74,3 +74,5 @@ result_y = model.predict(test_x_vectorised)
 
 #Evaluation
 print('Accuracy:', accuracy_score(test_y, result_y))
+
+
